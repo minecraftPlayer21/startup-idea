@@ -76,7 +76,6 @@ Currently in **Concept Design** stage.
 - [AssemblyAI Docs](https://www.assemblyai.com)  
 - [Convex Docs](https://convex.link/tubeguruji)  
 - [AI Agent Workflow (Ref)](https://dcmk.short.gy/ai-voice-agent-doc)  
-- [Original Build Inspiration](https://www.youtube.com/watch?v=example)
 
 ---
 
